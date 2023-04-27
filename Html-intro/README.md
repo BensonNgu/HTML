@@ -58,4 +58,4 @@
     </blockquote>
 </body>
 ```
-![blockquote](https://github.com/BensonNgu/HTML-notes/Html-intro/src/Screenshot_20230427_021435.png)
+![blockquote](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_021435.png)
