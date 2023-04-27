@@ -16,3 +16,46 @@
 </html>
 ```
 ![example 1](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_014814.png)
+
+***A html document***
+- start with: \<html> tag
+- follow by : \<head> tag   
+- follow by : \<body> tag  (visible part in the browser)
+
+## Tags
+- most of the tag goes in pair, a start tag and an end tag  
+```
+<tagname> content </tagname>
+```
+| **Tags** | **Example** |
+|---------|--------|
+| Heading | ```<h1> <h2> <h3> <h4> <h5> <h6>``` |
+| Paragraph | ```<p>``` |
+| Line break | ```<br/> or <bt />``` |
+| Horizontal line(divider) | ```<hr/>``` |
+
+
+## Character entity
+- Enable the browser to print some character that has been **reserved** by html
+
+| **Character entity** | **Example** |
+|---|---|
+| Non-breaking space | ```&nbsp``` |
+| < | ```&lt``` |
+| > |```&gt```|
+| & |```&amp```|
+| " |```&quot```|
+| ' |```&apos```|
+| degree sign|```&deg```|
+| copyright sign |```&copy```|
+
+## Blockquote
+```
+<body>
+    <p>This is a normal paragraph</p>
+    <blockquote>
+        <p>This is a paragraph in a block quote</p>
+    </blockquote>
+</body>
+```
+![blockquote](https://github.com/BensonNgu/HTML-notes/Html-intro/src/Screenshot_20230427_021435.png)
