@@ -15,4 +15,4 @@
     </body>
 </html>
 ```
-![example 1]()
+![example 1](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_014814.png)
