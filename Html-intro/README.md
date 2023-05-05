@@ -159,7 +159,7 @@ void main( ) {
 ```<img src="uow-logo.png" height="300" width="200" alt="logo of UOW"/>```
 |Attribute|Description|
 |---|---|
-|```src```|URL of image<br>Relative (point to an image within the website)<br>```src="logo.png"```<br>```src="images/logo.png"```<br>Absolute (point to another website)<br>```src="https://myWebsite/src/logo.png"```|
+|```src```|URL of image<br><b><ins>Relative</ins></b> (point to an image within the website)<br>```src="logo.png"```<br>```src="images/logo.png"```<br><b><ins>Absolute</ins></b> (point to another website)<br>```src="https://myWebsite/src/logo.png"```|
 |```alt```|alternate text for image <br>It will be shown when image can't be loaded<br>It will also shown when user disabled the image display to save bandwidth<br>A [<kbd>screen reader</kbd>](https://www.emizentech.com/blog/what-is-a-screen-reader.html)will read the alt text to us|
 |height & weight|optional<br>both can be specified in pixels```px``` ,or in percentage```%```|
 
@@ -168,14 +168,34 @@ void main( ) {
 ---
 
 ## Link
-Absolute URL   
+Target Absolute URL   
 ```<a href="http://www.uow.edu.au" target="_blank">Visit UOW</a>```  
-Relative URL  
+Target Relative URL  
 ```<a href="contact.html">Contact us</a>```
 |Target|Description|Video|
 |---|---|---|
-|```_blank```|open link in a new window or tab|![target_blank](src/link-target_blank.gif)|
-|```_self```|open link in the same frame|![target_self](src/link-target_self.gif)|
+|```_blank```|open link in a new window or tab|![target_blank](src/target_blank.gif)|
+|```_self```|open link in the same frame|![target_self](src/target_self.gif)|
+
+Target Within Document  
+```
+<body>
+    <a href="#about-me">About Me</a>
+    <a href="#hobby">Hobby</a>
+    <a href="#experience">Experience</a>
+
+
+    <h3 id="about-me">About Me</h3>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, magnam!
+
+    <h3 id="hobby">Hobby</h3>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, magnam!
+
+    <h3 id="experienc">Experience</h3>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, magnam!
+</body>
+```
+
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
