@@ -67,3 +67,88 @@
 ![blockquote](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_021435.png)
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+
+## Formatting text
+```
+<body>
+    <i>italic text</i> <br />
+    <b>italic text</b> <br />
+    <mark>italic text</mark> <br />
+    <del>italic text</del> <br />
+    <ins>italic text<ins> <br />
+</body>
+```
+
+><body>
+>    <i>italic text</i> <br />
+>    <b>bold Test</b> <br />
+>    <mark>highlited text</mark> <br />
+>    <del>deleted text</del> <br />
+>    <ins>inserted text<ins> <br />
+></body>  
+---
+```
+<body>
+    <h2>HTML <small>small</small> formatting</h2>
+    <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
+></body>
+```
+
+><body>
+>    <h2>HTML <small>small</small> formatting</h2>
+>    <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure, corrupti.</p>
+></body>
+---
+```
+<body>
+    <h2>Math</h2>
+    <h3><ins>Exponential</ins></h3>
+    x<sup>2</sup> <br />
+    <h3><ins>Equation</ins></h3>
+    x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
+</body>
+```
+><body>
+>    <h2>Math</h2>
+>    <h3><ins>Exponential</ins></h3>
+>    x<sup>2</sup> <br />
+>    <h3><ins>Equation</ins></h3>
+>    x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
+></body>
+
+## Preformatted text
+- <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
+- it preserved the character and the line spacing
+
+```
+<body>
+   <pre>
+       test
+                on
+ pre
+    tag
+   </pre>
+   <br />
+   <p>
+       test
+                on
+ p
+    tag
+   </p>
+</body>
+```
+><body>
+>   <pre>
+>       test
+>                on
+> pre
+>    tag
+>   </pre>
+>   <br />
+>   <p>
+>       test
+>                on
+> p
+>    tag
+>   </p>
+></body>
