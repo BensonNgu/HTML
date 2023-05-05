@@ -195,7 +195,7 @@ Target Within Document
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, magnam!
 </body>
 ```
-
+![target within document](src/terget_within_document.gif)
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
