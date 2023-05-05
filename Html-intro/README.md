@@ -4,7 +4,8 @@
 [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
 [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
 [<kbd>FORMATTING TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
-[<kbd>PREFORMATTED TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#preformatted)
+[<kbd>PREFORMATTED TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#preformatted-text)
+[<kbd>COMPUTER CODE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#computer-code)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
@@ -21,13 +22,14 @@
     </body>
 </html>
 ```
-![example 1](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_014814.png)
+![example 1](src/Screenshot_20230427_014814.png)
 
 ***A html document***
 - start with: \<html> tag
 - follow by : \<head> tag   
 - follow by : \<body> tag  (visible part in the browser)  
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+---
 ## Tags
 - most of the tag goes in pair, a start tag and an end tag  
 ```
@@ -42,6 +44,7 @@
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
+---
 ## Character entity
 - Enable the browser to print some character that has been **reserved** by html
 
@@ -57,6 +60,8 @@
 | &copy; |```&copy```|
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+
+---
 ## Blockquote
 ```
 <body>
@@ -66,10 +71,11 @@
     </blockquote>
 </body>
 ```
-![blockquote](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_021435.png)
+![blockquote](src/Screenshot_20230427_021435.png)
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
+---
 ## Formatting text
 ```
 <body>
@@ -80,16 +86,14 @@
     <ins>italic text<ins> <br />
 </body>
 ```
-![text formatting](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot%202023-05-06%20001053.png)
----
+![text formatting](src/Screenshot%202023-05-06%20001053.png)
 ```
 <body>
     <h2>HTML <small>small</small> formatting</h2>
     <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
 </body>
 ```
-![small tag](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/small-formatting.png)
----
+![small tag](src/small-formatting.png)
 ```
 <body>
     <h2>Math</h2>
@@ -99,10 +103,11 @@
     x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
 </body>
 ```
-![math](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/math.png)
+![math](src/math.png)
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
+---
 ## Preformatted text
 - <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
 - it preserved the character and the line spacing
@@ -128,3 +133,23 @@
 ![pre-tag](src/pre-tag.png)
 
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+
+---
+## Computer code
+```
+<body>
+    <pre>
+      <code>
+#include &ltiostream&gt
+void main( ) {
+  cout &lt&lt "Hello World!" &lt&lt endl;
+}
+        </code>
+    </pre>
+</body>
+```
+![code](src/code.png)
+
+[<kbd>Back to top</kbd>](/Html-intro#html-information)
+
+---
