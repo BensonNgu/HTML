@@ -38,7 +38,7 @@
 | Line break | ```<br/> or <bt />``` |
 | Horizontal line(divider) | ```<hr/>``` |
 
-[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction){: .btn}
+[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction){:.btn}
 
 ## Character entity
 - Enable the browser to print some character that has been **reserved** by html
