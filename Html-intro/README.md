@@ -1,8 +1,8 @@
 # HTML INTRODUCTION
 - [<kbd>WHAT IS HTML</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
-- [TAGS](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
-- [CHARACTER ENTITIY](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
-- [BLOCKQUOTE](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
+- [<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
+- [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
+- [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
@@ -25,7 +25,7 @@
 - start with: \<html> tag
 - follow by : \<head> tag   
 - follow by : \<body> tag  (visible part in the browser)  
-[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 ## Tags
 - most of the tag goes in pair, a start tag and an end tag  
 ```
@@ -38,7 +38,7 @@
 | Line break | ```<br/> or <bt />``` |
 | Horizontal line(divider) | ```<hr/>``` |
 
-[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction){:.btn}
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
 ## Character entity
 - Enable the browser to print some character that has been **reserved** by html
@@ -54,8 +54,7 @@
 | &deg; |```&deg```|
 | &copy; |```&copy```|
 
-[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
-
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 ## Blockquote
 ```
 <body>
@@ -67,4 +66,4 @@
 ```
 ![blockquote](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_021435.png)
 
-[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
