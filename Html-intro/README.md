@@ -3,6 +3,7 @@
 [<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
 [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
 [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
+[<kbd>Formatting text</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
@@ -78,14 +79,7 @@
     <ins>italic text<ins> <br />
 </body>
 ```
-
-><body>
->    <i>italic text</i> <br />
->    <b>bold Test</b> <br />
->    <mark>highlited text</mark> <br />
->    <del>deleted text</del> <br />
->    <ins>inserted text<ins> <br />
-></body>  
+![text formatting](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/)
 ---
 ```
 <body>
