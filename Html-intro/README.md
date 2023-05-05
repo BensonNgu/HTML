@@ -87,7 +87,7 @@
     <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
 ></body>
 ```
-![small tag](link)
+![small tag](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/small-formatting.png)
 ---
 ```
 <body>
@@ -98,7 +98,7 @@
     x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
 </body>
 ```
-![math](link)
+![math](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/math.png)
 
 ## Preformatted text
 - <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
@@ -122,4 +122,4 @@
 </body>
 ```
 ><body>
-![pre-tag](link)
+![pre-tag](src/pre-tag.png)
