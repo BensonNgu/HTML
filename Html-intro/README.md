@@ -3,7 +3,8 @@
 [<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
 [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
 [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
-[<kbd>Formatting text</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
+[<kbd>FORMATTING TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
+[<kbd>PREFORMATTED TEXT</kbd>](Html-intro#preformatted)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
@@ -85,7 +86,7 @@
 <body>
     <h2>HTML <small>small</small> formatting</h2>
     <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
-></body>
+</body>
 ```
 ![small tag](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/small-formatting.png)
 ---
@@ -99,6 +100,8 @@
 </body>
 ```
 ![math](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/math.png)
+
+[<kbd>Back to top</kbd>](Html-intro#html-introduction)
 
 ## Preformatted text
 - <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
@@ -123,3 +126,5 @@
 ```
 ><body>
 ![pre-tag](src/pre-tag.png)
+
+[<kbd>Back to top</kbd>](Html-intro#html-introduction)
