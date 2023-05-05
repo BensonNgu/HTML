@@ -1,5 +1,5 @@
 # HTML INTRODUCTION
-- [WHAT IS HTML](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
+- <kbd>WHAT IS HTML</kbd>(#what-is-html)
 - [TAGS](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
 - [CHARACTER ENTITIY](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
 - [BLOCKQUOTE](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
