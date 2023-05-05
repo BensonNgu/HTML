@@ -51,8 +51,8 @@
 | & |```&amp```|
 | " |```&quot```|
 | ' |```&apos```|
-| degree sign|```&deg```|
-| copyright sign |```&copy```|
+| &deg; |```&deg```|
+| &copy; |```&copy```|
 
 [Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
