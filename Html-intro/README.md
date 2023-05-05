@@ -79,7 +79,7 @@
     <ins>italic text<ins> <br />
 </body>
 ```
-![text formatting](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/)
+![text formatting](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot%202023-05-06%20001053.png)
 ---
 ```
 <body>
