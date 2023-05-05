@@ -25,7 +25,7 @@
 - start with: \<html> tag
 - follow by : \<head> tag   
 - follow by : \<body> tag  (visible part in the browser)
-
+[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 ## Tags
 - most of the tag goes in pair, a start tag and an end tag  
 ```
@@ -37,7 +37,7 @@
 | Paragraph | ```<p>``` |
 | Line break | ```<br/> or <bt />``` |
 | Horizontal line(divider) | ```<hr/>``` |
-
+[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
 ## Character entity
 - Enable the browser to print some character that has been **reserved** by html
@@ -52,6 +52,7 @@
 | ' |```&apos```|
 | degree sign|```&deg```|
 | copyright sign |```&copy```|
+[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
 ## Blockquote
 ```
@@ -63,3 +64,4 @@
 </body>
 ```
 ![blockquote](https://github.com/BensonNgu/HTML-notes/blob/main/Html-intro/src/Screenshot_20230427_021435.png)
+[Back to top](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
