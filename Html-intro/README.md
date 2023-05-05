@@ -30,7 +30,9 @@
 - start with: \<html> tag
 - follow by : \<head> tag   
 - follow by : \<body> tag  (visible part in the browser)  
+
 [<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+
 ---
 ## Tags
 - most of the tag goes in pair, a start tag and an end tag  
