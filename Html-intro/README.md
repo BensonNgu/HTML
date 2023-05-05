@@ -87,11 +87,7 @@
     <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
 ></body>
 ```
-
-><body>
->    <h2>HTML <small>small</small> formatting</h2>
->    <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure, corrupti.</p>
-></body>
+![small tag](link)
 ---
 ```
 <body>
@@ -102,13 +98,7 @@
     x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
 </body>
 ```
-><body>
->    <h2>Math</h2>
->    <h3><ins>Exponential</ins></h3>
->    x<sup>2</sup> <br />
->    <h3><ins>Equation</ins></h3>
->    x<sub>1</sub><sup>n</sup> + x<sub>2</sub><sup>n</sup> 
-></body>
+![math](link)
 
 ## Preformatted text
 - <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
@@ -132,17 +122,4 @@
 </body>
 ```
 ><body>
->   <pre>
->       test
->                on
-> pre
->    tag
->   </pre>
->   <br />
->   <p>
->       test
->                on
-> p
->    tag
->   </p>
-></body>
+![pre-tag](link)
