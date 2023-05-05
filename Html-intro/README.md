@@ -1,8 +1,8 @@
 # HTML INTRODUCTION
-- [<kbd>WHAT IS HTML</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
-- [<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
-- [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
-- [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
+[<kbd>WHAT IS HTML</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
+[<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
+[<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
+[<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
