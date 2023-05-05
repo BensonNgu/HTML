@@ -1,11 +1,13 @@
 # HTML INTRODUCTION
-[<kbd>WHAT IS HTML</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
+[<kbd><b>WHAT IS HTML</b></kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
 [<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
 [<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
 [<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
 [<kbd>FORMATTING TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
 [<kbd>PREFORMATTED TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#preformatted-text)
 [<kbd>COMPUTER CODE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#computer-code)
+[<kbd>IMAGE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#image)
+[<kbd>LINK</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#link)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
@@ -150,6 +152,31 @@ void main( ) {
 ```
 ![code](src/code.png)
 
-[<kbd>Back to top</kbd>](/Html-intro#html-information)
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-information)
+
+---
+## Image
+```<img src="uow-logo.png" height="300" width="200" alt="logo of UOW"/>```
+|Attribute|Description|
+|---|---|
+|src|URL of image<br>Relative (point to an image within the website)<br>```src="logo.png"```<br>```src="images/logo.png"```<br>Absolute (point to another website)<br>```src="https://myWebsite/src/logo.png"```|
+|alt|alternate text for image <br>It will be shown when image can't be loaded<br>It will also shown when user disabled the image display to save bandwidth<br>A [<kbd>screen reader</kbd>](https://www.emizentech.com/blog/what-is-a-screen-reader.html)will read the alt text to us|
+|height & weight|optional<br>both can be specified in pixels```px``` ,or in percentage```%```|
+
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+
+---
+
+## Link
+Absolute URL   
+```<a href="http://www.uow.edu.au" target="_blank">Visit UOW</a>```  
+Relative URL  
+```<a href="contact.html">Contact us</a>```
+|Target|Description|Video|
+|---|---|---|
+|_blank|open link in a new window or tab|![target_blank](src/link-target_blank.gif)|
+|_self|open link in the same frame|![target_self](src/link-target_self.gif)|
+
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
 ---
