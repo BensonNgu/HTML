@@ -152,7 +152,7 @@ void main( ) {
 ```
 ![code](src/code.png)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-information)
+[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
 
 ---
 ## Image
