@@ -1,11 +1,11 @@
 # HTML INTRODUCTION
-[<kbd><b>WHAT IS HTML</b></kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#what-is-html)
-[<kbd>TAGS</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#tags)
-[<kbd>CHARACTER ENTITIY</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#character-entity)
-[<kbd>BLOCKQUOTE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#blockquote)
-[<kbd>FORMATTING TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
-[<kbd>PREFORMATTED TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#preformatted-text)
-[<kbd>COMPUTER CODE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#computer-code)
+[<kbd><b>WHAT IS HTML</b></kbd>](#what-is-html)
+[<kbd>TAGS</kbd>](#tags)
+[<kbd>CHARACTER ENTITIY</kbd>](#character-entity)
+[<kbd>BLOCKQUOTE</kbd>](#blockquote)
+[<kbd>FORMATTING TEXT</kbd>](#formatting-text)
+[<kbd>PREFORMATTED TEXT</kbd>](#preformatted-text)
+[<kbd>COMPUTER CODE</kbd>](#computer-code)
 [<kbd>IMAGE</kbd>](#image)
 [<kbd>LINK</kbd>](#link)
 ## WHAT IS HTML?
@@ -31,7 +31,7 @@
 - follow by : \<head> tag   
 - follow by : \<body> tag  (visible part in the browser)  
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Tags
@@ -46,7 +46,7 @@
 | Line break | ```<br/> or <bt />``` |
 | Horizontal line(divider) | ```<hr/>``` |
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Character entity
@@ -63,7 +63,7 @@
 | &deg; |```&deg```|
 | &copy; |```&copy```|
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Blockquote
@@ -77,7 +77,7 @@
 ```
 ![blockquote](src/Screenshot_20230427_021435.png)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Formatting text
@@ -109,7 +109,7 @@
 ```
 ![math](src/math.png)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Preformatted text
@@ -136,7 +136,7 @@
 ><body>
 ![pre-tag](src/pre-tag.png)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Computer code
@@ -154,7 +154,7 @@ void main( ) {
 ```
 ![code](src/code.png)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 ## Image
@@ -165,7 +165,7 @@ void main( ) {
 |```alt```|alternate text for image <br>It will be shown when image can't be loaded<br>It will also shown when user disabled the image display to save bandwidth<br>A [<kbd>screen reader</kbd>](https://www.emizentech.com/blog/what-is-a-screen-reader.html)will read the alt text to us|
 |height & weight|optional<br>both can be specified in pixels```px``` ,or in percentage```%```|
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
 
@@ -199,6 +199,6 @@ Target Within Document
 ```
 ![target within document](src/terget_within_document.gif)
 
-[<kbd>Back to top</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#html-introduction)
+[<kbd>Back to top</kbd>](#html-introduction)
 
 ---
