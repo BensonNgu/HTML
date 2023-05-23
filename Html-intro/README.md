@@ -6,8 +6,8 @@
 [<kbd>FORMATTING TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#formatting-text)
 [<kbd>PREFORMATTED TEXT</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#preformatted-text)
 [<kbd>COMPUTER CODE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#computer-code)
-[<kbd>IMAGE</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#image)
-[<kbd>LINK</kbd>](https://github.com/BensonNgu/HTML-notes/tree/main/Html-intro#link)
+[<kbd>IMAGE</kbd>](#image)
+[<kbd>LINK</kbd>](#link)
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
