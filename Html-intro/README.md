@@ -1,13 +1,15 @@
 # HTML INTRODUCTION
-[IS HTML](#what-is-html)
-[TAGS](#tags)
-[CHARACTER ENTITIY](#character-entity)
-[BLOCKQUOTE](#blockquote)
-[FORMATTING TEXT](#formatting-text)
-[PREFORMATTED TEXT](#preformatted-text)
-[COMPUTER CODE](#computer-code)
-[IMAGE](#image)
-[LINK](#link)
+|Table of Content|
+|---|
+|[WHAT IS HTML](#what-is-html)|
+|[TAGS](#tags)|
+|[CHARACTER ENTITIY](#character-entity)|
+|[BLOCKQUOTE](#blockquote)|
+|[FORMATTING TEXT](#formatting-text)|
+|[PREFORMATTED TEXT](#preformatted-text)|
+|[COMPUTER CODE](#computer-code)|
+|[IMAGE](#image)|
+|[LINK](#link)|
 ## WHAT IS HTML?
 - **H**yper **T**ext **M**arkuo **L**anguage
 - Markup language for describing web documents
