@@ -1,5 +1,5 @@
 # HTML INTRODUCTION
-[<kbd><b>WHAT IS HTML</b></kbd>](#what-is-html)
+[WHAT IS HTML](#what-is-html)
 [<kbd>TAGS</kbd>](#tags)
 [<kbd>CHARACTER ENTITIY</kbd>](#character-entity)
 [<kbd>BLOCKQUOTE</kbd>](#blockquote)
