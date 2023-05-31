@@ -142,7 +142,7 @@
 
 ---
 ## Computer code
-```
+```html
 <body>
     <pre>
       <code>
@@ -182,7 +182,7 @@ Target Relative URL
 |```_self```|open link in the same frame|![target_self](src/target_self.gif)|
 
 Target Within Document  
-```
+```html
 <body>
     <a href="#about-me">About Me</a>
     <a href="#hobby">Hobby</a>
