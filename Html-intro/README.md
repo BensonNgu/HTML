@@ -11,12 +11,12 @@
 |[IMAGE](#image)|
 |[LINK](#link)|
 ## WHAT IS HTML?
-- **H**yper **T**ext **M**arkuo **L**anguage
+- **H**yper **T**ext **M**arkup **L**anguage
 - Markup language for describing web documents
 - described by html tags
 - Each tag described different document content
 
-```
+```html
 <html>
     <head>
         <title>JT</title>
@@ -38,7 +38,7 @@
 ---
 ## Tags
 - most of the tag goes in pair, a start tag and an end tag  
-```
+```html
 <tagname> content </tagname>
 ```
 | **Tags** | **Example** |
@@ -69,7 +69,7 @@
 
 ---
 ## Blockquote
-```
+```html
 <body>
     <p>This is a normal paragraph</p>
     <blockquote>
@@ -83,7 +83,7 @@
 
 ---
 ## Formatting text
-```
+```html
 <body>
     <i>italic text</i> <br />
     <b>italic text</b> <br />
@@ -93,14 +93,14 @@
 </body>
 ```
 ![text formatting](src/Screenshot%202023-05-06%20001053.png)
-```
+```html
 <body>
     <h2>HTML <small>small</small> formatting</h2>
     <p>Lorem ipsum dolor sit, <small>amet consectetur adipisicing elit</small>. Iure corrupti.</p>
 </body>
 ```
 ![small tag](src/small-formatting.png)
-```
+```html
 <body>
     <h2>Math</h2>
     <h3><ins>Exponential</ins></h3>
@@ -118,7 +118,7 @@
 - <span style="color:#ccb67b">pre</span> element show in [<kbd>monospace</kbd>](https://fonts.google.com/knowledge/glossary/monospaced)
 - it preserved the character and the line spacing
 
-```
+```html
 <body>
    <pre>
        test
@@ -172,16 +172,16 @@ void main( ) {
 ---
 
 ## Link
-Target Absolute URL   
+### Target Absolute URL   
 ```<a href="http://www.uow.edu.au" target="_blank">Visit UOW</a>```  
-Target Relative URL  
+### Target Relative URL  
 ```<a href="contact.html">Contact us</a>```
 |Target|Description|Video|
 |---|---|---|
 |```_blank```|open link in a new window or tab|![target_blank](src/target_blank.gif)|
 |```_self```|open link in the same frame|![target_self](src/target_self.gif)|
 
-Target Within Document  
+### Target Within Document  
 ```html
 <body>
     <a href="#about-me">About Me</a>
@@ -204,3 +204,43 @@ Target Within Document
 [Back to top](#html-introduction)
 
 ---
+
+## List
+<details>
+<summary>Unordered List</summary>
+
+```html
+<ul>
+    <li>MATH222: Mon 8:30-10:30 lecture</li>
+    <li>CSCI204: Tue 9:30-11:30 lab</li>
+    <li>ISIT206: Wed 8:30-10:30 lecture</li>
+</ul>
+```
+</details>
+
+<details>
+<summary>Ordered List</summary>
+
+```html
+<ol>
+    <li>MATH222: Mon 8:30-10:30 lecture</li>
+    <li>CSCI204: Tue 9:30-11:30 lab</li>
+    <li>ISIT206: Wed 8:30-10:30 lecture</li>
+</ol>
+```
+</details>
+
+<details>
+<summary>Definition List</summary>
+
+```html
+<dl>
+    <dt>MATH222</dt>
+        <dd>Mon 8:30-10:30 lecture</dd>
+    <dt>CSCI204</dt>
+        <dd>Tue 9:30-11:30 lab</dd>
+    <dt>ISIT206</dt>
+        <dd>Wed 8:30-10:30 lecture</dd>
+</dl>
+```
+</details>
