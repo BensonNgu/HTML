@@ -1,0 +1,48 @@
+body{
+    background: black;
+}
+
+@font-face {
+    font-family: "FX_LED";
+    src:url("https://www.dafontfree.net/embed/bGVkZm9udC1yZWd1bGFyJmRhdGEvMjYvbC8xMzIxOTcvbGVkZm9udC50dGY");
+}
+
+.digital-clock {
+    background-color:#2b2d30;
+    color: white;
+    display: flex;
+    border-radius: 2rem;
+    user-select: none;
+    padding: 0 2rem;
+    border: 0.5rem solid #2d2d2d;
+}
+
+.week{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    color: #535353;
+    font-weight: bold;
+    font-family: "JetBrainsMonoNL NFP SemiBold", serif;
+}
+
+.week .active{
+    color: white;
+}
+
+.time{
+    font-family: "JetBrainsMonoNL NFP SemiBold", serif;
+}
+
+.hour,
+.min,
+.dot{
+    display: inline-block;
+    font-size: 13rem;
+}
+
+.invisible{
+    visibility: hidden;
+}

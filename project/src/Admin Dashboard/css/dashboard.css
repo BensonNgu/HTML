@@ -1,0 +1,16 @@
+body{
+    background: #3a3a3a;
+    font-family: "JetBrainsMono NF Mono", serif;
+}
+nav{
+    background: blue;
+}
+nav li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
